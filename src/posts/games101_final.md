@@ -79,8 +79,10 @@ $$\frac{v_1-v^{**} }{\Delta t}=-\frac{1}{\rho}\triangledown p$$
 ### 4、实现结果
 
 单色模拟：
-<VidStack src="/assets/videos/fluidSimulation1.mp4" />
+
+<VidStack src="/Unisky-Blog//assets/videos/fluidSimulation1.mp4" />
 
 双色模拟：
-<VidStack src="/assets/videos/fluidSimulation2.mp4" />
+
+<VidStack src="/Unisky-Blog//assets/videos/fluidSimulation2.mp4" />
 

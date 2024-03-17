@@ -19,7 +19,11 @@
     "vuepress-theme-hope": "2.0.0-rc.31"
   },
   "dependencies": {
+    "artplayer": "^5.1.1",
+    "dashjs": "^4.7.4",
     "element-plus": "^2.6.1",
+    "hls.js": "^1.5.7",
+    "mpegts.js": "^1.7.3",
     "vidstack": "^1.10.9"
   }
 }
